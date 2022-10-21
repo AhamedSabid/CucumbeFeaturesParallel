@@ -1,4 +1,4 @@
-Feature: Navigate to shopping sites
+Feature: Navigate to social media
 
   @Google
   Scenario: Verify Navigate to 'youtube'
