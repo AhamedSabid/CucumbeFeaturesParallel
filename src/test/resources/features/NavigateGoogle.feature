@@ -1,5 +1,4 @@
-Feature: Title of your feature
-  I want to use this template for my feature file
+Feature: NAvigate to Google and search with some texts
 
   @Google
   Scenario: Verify Google search with 'Software'
